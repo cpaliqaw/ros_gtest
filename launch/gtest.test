@@ -1,0 +1,3 @@
+<launch>
+	<test test-name="Unit-Tests" pkg="ros_gtest" type="testing-test" name="JustAName"/>
+</launch>
